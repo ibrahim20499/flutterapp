@@ -1,7 +1,7 @@
 # dscapp
 Flutter Exmaple.
 
-## Contents with
+## Contents 
 1- splash screens
 2-Home screen containing
   - text
